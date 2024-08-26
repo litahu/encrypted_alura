@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Encriptador de Texto </title>
+    <script src="script.js"></script>
+    
+</head>
+<body>
+    <header class="titulo_principal">   
+        <img class="logo" src="./assets/head_logo.PNG">
+        <h1 >
+            Encripta o desencripta el texto,  
+            <strong class="titulo_destaque">¡¡Juega!! </strong>
+        </h1>
+        
+    </header>
+    <main>  
+        <section class="contenido">
+            <div id="Entradas">
+                <p> 
+                    * Ingresa solo letras minúsculas y sin acento
+                </p>
+               
+                <textarea id="texto" placeholder="Ingrese el texto aquí" cols="25" rows="5"></textarea>
+                <div id="btn_entradas">
+                    <br>
+                    <button id="encript-btn" class="custom-button" >Encriptar! </button>
+                    <button id="desencript-btn" class="custom-button" >Desencriptar! </button>
+                    <br>
+                </div>
+            </div>
+            
+            <div id="Salidas"></div>
+            <br>
+            <img id="imagen1" src="./assets/r_neutro.png">
+            <img id="imagen2" src="./assets/r_triste.png" style="display: none;">
+            <img id="imagen3" src="./assets/r_alegre.png" style="display: none;">
+            
+        </section>
+        
+        <div class="fondo_imagem"> 
+            <img src="./assets/ifondo_cidade.png">
+        </div>
+    </main>
+    <footer>
+        <blockquote>Copyright&copy; 2024, página creada por Lita Hume | Todos los derechos reservados</blockquote>
+    </footer>
+</body>
+
+</html>
