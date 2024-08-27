@@ -3,7 +3,7 @@ _Llegó el momento de aplicar las enseñanzas adquiridas en el bootcamp de "Intr
 Alura Latam".Estoy contenta por lo logrado!_ 
 ✨ Aprender en base a desafíos✨
 
-### Pre-requisitos 📋
+### 📋 Pre-requisitos
 _¿Qué se necesito?_
 ```
 Git
@@ -11,7 +11,7 @@ Visual Studio Code
 GitHub
 ```
 
-### Proceso 🔧
+### 🔧 Proceso 
 Gestión ágil del proyecto > Diseño figma > HTML > CSS > JS > Publicarlo y compartirlo
 
 ## Aprendizaje 🚀
@@ -30,7 +30,7 @@ De ese modo:
 * JavaScript5
 
 ## Autores ✒️
-* **Lita Hume** _Desarrollo_ [Litahu](#[Litahu](https://github.com/litahu))
+* **Lita Hume** _Desarrollo_ ([Litahu](https://github.com/litahu))
 
 ## Gracias 🎁
 * Agradezco a Oracle + Alura por este bootcampt. Realmente, me ayudaron a acercarme más al mundo tecnologico.
