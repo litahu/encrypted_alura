@@ -2,7 +2,7 @@
 _Llegó el momento de aplicar las enseñanzas adquiridas en el bootcamp de "Introducción a la programación de
 Alura Latam".Estoy contenta por lo logrado!_([Ver](https://encrypted-alura.vercel.app/))
 
-✨ Aprender en base a desafíos✨
+[pagina](https://github.com/litahu/encrypted_alura/blob/main/assets/encriptado_pagina.gif)
 
 ### 📋 Pre-requisitos
 _¿Qué se necesito?_
