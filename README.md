@@ -2,9 +2,9 @@
 _Llegó el momento de aplicar las enseñanzas adquiridas en el bootcamp de "Introducción a la programación de
 Alura Latam".Estoy contenta por lo logrado!_([Ver](https://encrypted-alura.vercel.app/))
 
-![pagina](https://github.com/litahu/encrypted_alura/blob/main/assets/encriptado_pagina.gif)
+![pagina](https://github.com/litahu/encrypted_alura/blob/main/assets/primera_pagina.gif)
 <p align="center">
-    <kbd> <img width="500" alt="income spending cluster" src="https://github.com/litahu/encrypted_alura/blob/main/assets/encriptado_pagina.gif"></kbd> <br>
+    <kbd> <img width="500" alt="income spending cluster" src="https://github.com/litahu/encrypted_alura/blob/main/assets/primera_pagina.gif"></kbd> <br>
 </p>
 
 ### 📋 Pre-requisitos
